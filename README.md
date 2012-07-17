@@ -1,7 +1,7 @@
 arch-brightness
 ===============
 
-Brightness command-line control on Arch Linux (Fujitsu Esprimo Mobile v6555).
+brightness command-line control
 
 author: Andrei Duma (andrei.duma.dorian@gmail.com) (github.com/AndreiDuma)
 
@@ -16,4 +16,4 @@ or
 
     $ brightness -     # to decrease brightness level with 1 level
 
-##### note: utility written for Fujitsu Esprimo Mobile v6555. May work on other devices as well.
+##### note: utility written for Fujitsu Esprimo Mobile v6555 under Arch Linux. May work on other systems as well.
