@@ -15,3 +15,5 @@ or
 or
 
     $ brightness -     # to decrease brightness level with 1 level
+
+##### note: utility written for Fujitsu Esprimo Mobile v6555. May work on other devices as well.
