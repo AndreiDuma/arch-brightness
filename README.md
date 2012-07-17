@@ -5,8 +5,7 @@ Brightness command-line control on Arch Linux (Fujitsu Esprimo Mobile v6555).
 
 author: Andrei Duma (andrei.duma.dorian@gmail.com) (github.com/AndreiDuma)
 
-usage
------
+### usage
     $ brightness x     # with x in {0,1,2,3,4,5,6,7}, to set brightness to that precise level
 
 or
